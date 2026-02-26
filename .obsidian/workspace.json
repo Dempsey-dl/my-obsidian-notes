@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Hello World"
             }
+          },
+          {
+            "id": "6d8bba5be5708915",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web3/未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 223.5
   },
   "right": {
     "id": "62a26c253dd49f0c",
@@ -177,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,8 +206,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2dbd6fcf8b51f7fa",
+  "active": "60f08c9d2cc13e9b",
   "lastOpenFiles": [
-    "Hello World.md"
+    "常用指令.md",
+    "Web3/未命名.md",
+    "Hello World.md",
+    "Web3"
   ]
 }
